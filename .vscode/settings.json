@@ -1,0 +1,5 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.autoClosingBrackets": "always",
+    "emmet.triggerExpansionOnTab": true
+}
